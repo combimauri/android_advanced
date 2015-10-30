@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/option_all"
+            android:icon="@drawable/ic_menu"
+            android:title="@string/all_title"/>
+        <item
+            android:id="@+id/option_science"
+            android:icon="@drawable/ic_menu"
+            android:title="@string/science_title"/>
+        <item
+            android:id="@+id/option_culture"
+            android:icon="@drawable/ic_menu"
+            android:title="@string/culture_title"/>
+        <item
+            android:id="@+id/option_mistery"
+            android:icon="@drawable/ic_menu"
+            android:title="@string/mistery_title"/>
+        <item
+            android:id="@+id/option_technology"
+            android:icon="@drawable/ic_menu"
+            android:title="@string/technology_title"/>
+    </group>
+
+    <item
+        android:id="@+id/navigation_subheader"
+        android:icon="@drawable/ic_menu"
+        android:title="@string/empty_line">
+        <menu>
+            <item
+                android:id="@+id/option_settings"
+                android:icon="@drawable/ic_menu"
+                android:title="@string/settings_option"/>
+        </menu>
+    </item>
+
+</menu>

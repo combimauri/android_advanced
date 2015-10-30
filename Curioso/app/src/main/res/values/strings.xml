@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">¡Curioso!</string>
+    <string name="all_title">Todas</string>
+    <string name="science_title">Ciencia</string>
+    <string name="culture_title">Cultura</string>
+    <string name="mistery_title">Misterio</string>
+    <string name="technology_title">Tecnología</string>
+    <string name="settings_option">Configuración</string>
+    <string name="empty_line"></string>
+    <string name="parse_app_id"></string>
+    <string name="parse_client_key"></string>
+</resources>
